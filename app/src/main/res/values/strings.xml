@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="option_get_place">Get place</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="google_maps_key_string" templateMergeStrategy="preserve" translatable="false">AIzaSyANaq7FhGRSt8l2e1GyS3aVJpiYti7Kx3g</string>
+</resources>
