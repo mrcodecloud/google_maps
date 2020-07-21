@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
@@ -33,4 +33,13 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     implementation "com.google.android.libraries.places:places:1.1.0"
+
+
+    //  For FCM
+    //noinspection GradleCompatible
+    implementation 'com.google.firebase:firebase-core:16.0.9'
+    implementation 'com.google.firebase:firebase-messaging:19.0.0'
+    implementation 'com.firebaseui:firebase-ui-auth:3.1.0'
+    implementation 'com.google.android.gms:play-services-auth:11.4.2'
+    apply plugin: 'com.google.gms.google-services'
 }

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601324757915",
+    "firebase_url": "https://ray-fb-mad.firebaseio.com",
+    "project_id": "ray-fb-mad",
+    "storage_bucket": "ray-fb-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601324757915:android:0d61939c4f8aff17c7b73e",
+        "android_client_info": {
+          "package_name": "com.smarwey.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601324757915-58bfdihino80km7mk356m3gpnpavqn2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarwey.googlemaps",
+            "certificate_hash": "c6db93b2a743f6c9f591c2936c6a39b953953f3d"
+          }
+        },
+        {
+          "client_id": "601324757915-3m68kl9mt7a00bug3p3fhf8t6l9m89if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXdejze9qseqFOOCld9eW23LW5sKZ8pa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601324757915-3m68kl9mt7a00bug3p3fhf8t6l9m89if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
